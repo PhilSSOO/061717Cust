@@ -193,7 +193,7 @@ body {
 
 .player .progressBar {
   background-color: rgb(50, 77, 77);
-  //rgb(250, 1, 2)
+  // sss ss rgb(250, 1, 2)
   //50, 178, 49
 }
 
@@ -222,9 +222,10 @@ body {
 
 .player .controls-cur-time,
 .player .controls-total-time {
-  //color: rgba(255, 255, 255, 0.8);
+  // sss color: rgba(255, 255, 255, 0.8);
   color: rgba(255, 0,0, 0.8);
-  font-size: 16px;
+  font-size: 46px;
+  //font-size: 16px; 
   font-weight: 400;
 }
 
